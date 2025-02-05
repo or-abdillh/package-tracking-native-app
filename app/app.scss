@@ -19,3 +19,34 @@
   font-family: 'Font Awesome 5 Free', 'fa-regular-400';
   font-weight: 400;
 }
+
+.font-serif {
+  font-family: "Afacad", serif;
+}
+
+@font-face {
+  font-family: "afacad";
+  src: url("~/fonts/afacad.ttf");
+}
+
+.font-serif-400 {
+  font-family: "afacad", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.font-serif-500 {
+  font-family: "afacad", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+.font-serif-600 {
+  font-family: "afacad", serif;
+  font-weight: 600;
+  font-style: normal;
+}
+
+* {
+  font-family: "afacad", serif;
+}
